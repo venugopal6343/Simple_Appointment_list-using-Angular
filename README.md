@@ -4,6 +4,9 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 
 ## Development server
 
+![Screenshot (35)](https://github.com/user-attachments/assets/faa74a91-58b7-4f86-9bd0-8f0b3d312787)
+
+
 To start a local development server, run:
 
 ```bash
